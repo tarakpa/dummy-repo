@@ -1,2 +1,5 @@
 *.log
-dir/
+/dir/
+2ndfolder/
+# 2ndfolder/dir/
+# 3rdfolder/2ndfolder
